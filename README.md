@@ -1,4 +1,4 @@
-<h1 align="center">Hi Bro 👋, I'm Swagathchandran S</h1>
+<h1 align="center">Hi👋, I'm Swagathchandran S</h1>
 <h3 align="center">🚀 A passionate developer who loves building cool stuff</h3>
 
 ---
