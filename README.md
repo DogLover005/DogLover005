@@ -2,9 +2,6 @@
 <h3 align="center">🚀 A passionate developer who loves building cool stuff</h3>
 
 ---
-
-- 🌱 I’m currently working on **Crop Disease Prediction for Farmers**
-- 🔭 I’m also building a **Travel Booking & Planning Platform**
 - 💬 Ask me about **React, Node.js, MongoDB, ML projects**
 - 📫 How to reach me: [swagathchandran91@gmail.com]
 - ⚡ Fun fact: I believe in code, coffee, and consistency ☕💻
