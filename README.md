@@ -1,4 +1,4 @@
-<h1 align="center">Hi Bro 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi Bro 👋, I'm Swagathchandran S</h1>
 <h3 align="center">🚀 A passionate developer who loves building cool stuff</h3>
 
 ---
@@ -6,7 +6,7 @@
 - 🌱 I’m currently working on **Crop Disease Prediction for Farmers**
 - 🔭 I’m also building a **Travel Booking & Planning Platform**
 - 💬 Ask me about **React, Node.js, MongoDB, ML projects**
-- 📫 How to reach me: [your_email@example.com]
+- 📫 How to reach me: [swagathchandran91@gmail.com]
 - ⚡ Fun fact: I believe in code, coffee, and consistency ☕💻
 
 ---
@@ -20,7 +20,6 @@
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?&style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=flat&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?&style=flat&logo=python&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=flat&logo=tailwind-css&logoColor=white)
 
 ---
 
