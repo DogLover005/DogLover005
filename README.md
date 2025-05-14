@@ -26,8 +26,8 @@
 
 ### 📈 GitHub Stats
 
-![Swagathchandran's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Swagathchandran's GitHub stats](https://github-readme-stats.vercel.app/api?username=DogLover005&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DogLover005&layout=compact&theme=radical)
 
 ---
 
